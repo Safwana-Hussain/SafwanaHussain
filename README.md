@@ -1,5 +1,4 @@
-[(https://github.com/Safwana15/Safwana15/commit/fccd2a1aceb4e180f71a777c2b1d006109a8ce33)
-
+![image alt](https://github.com/Safwana15/Safwana15/blob/4e0bd76a378f38d38412e58b9892a0b66d5eb7d1/GITHUB.jpg)
 
 A bit about me - 
 - 👋 Hi, I’m Safwana
