@@ -1,5 +1,7 @@
-A bit about me - 
+[(https://github.com/Safwana15/Safwana15/commit/fccd2a1aceb4e180f71a777c2b1d006109a8ce33)
 
+
+A bit about me - 
 - 👋 Hi, I’m Safwana
 - 👀 I’m currently transitioning to become Business Analys.
 - 💞️ I’m eager to collaborate on data-related projects, learning through hands-on experience is my passion.
