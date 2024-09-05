@@ -5,7 +5,6 @@ A bit about me -
 - 💞️ I’m eager to collaborate on data-related projects, learning through hands-on experience is my passion.
 - 📫 Feel free to ask me about my journey from Industrial Engineer to Business Analyst.
 - 😄 I’m seeking feedback and advice on improving my portfolio and resume.
-- 📄 Take a look at my resume here  [My Resume](https://drive.google.com/file/d/1CIwuutCMeRxFI636wL1vpTF_pHIXoR6m/view?usp=drive_link)
 - 🌱 My LinkedIn [LinkedIn](https://www.linkedin.com/in/safwana/)
 - ⚡ Fun fact: I’m an event planner (not a famous one). I love planning events as a creative outlet. Check out my work here [Function_Junction](https://www.instagram.com/function_junction_events.gta/) 
 
